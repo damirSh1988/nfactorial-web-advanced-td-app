@@ -1,0 +1,30 @@
+
+.Header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 90%;
+    margin-top: 40px;
+    align-items: center;
+}
+
+.Header-Buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+   
+
+}
+
+button {
+    width: 250px;
+    height: 45px;
+    border-radius: 10px;
+    border-color: white;
+    background-color: #3e63e7;
+    border-style: solid;
+    color: white;
+    font-size: 20px;
+}
+
+
